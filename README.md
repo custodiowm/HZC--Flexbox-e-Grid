@@ -11,8 +11,8 @@ Site criado no curso de CSS: dispondo elementos com Flexbox e Grid
 <img alt="GitHub Repo stars" src="https://img.shields.io/badge/ HTML - CSS -yellow">
 
 ## Tecnologias utilizadas
-* HTML
-* CSS
+- ``HTML``
+- ``CSS``
 
 ## Descrição do Projeto
 Relacionar o flexbox com maneiras já conhecidas de posicionamento de elementos.</br>
