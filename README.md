@@ -1,3 +1,39 @@
+<h1 align="center">HZC</h1>
+ 
+
+Site criado no curso de CSS: dispondo elementos com Flexbox e Grid
+
+<p align="center">
+<img src="https://github.com/custodiowm/HZC--Flexbox-e-Grid/blob/main/assets/img/banner-mobile_1.png"/ width="250px">
+</p>
+
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wmc/stars?label=Stars&style=social">
+<img alt="GitHub Repo stars" src="https://img.shields.io/badge/ HTML - CSS -yellow">
+
+## Tecnologias utilizadas
+* HTML
+* CSS
+
+## Descrição do Projeto
+Relacionar o flexbox com maneiras já conhecidas de posicionamento de elementos.</br>
+Ver o flexbox e suas propriedades para o posicionamento de elementos.</br>
+Produzir o cabeçalho utilizando as ferramentas do flexbox.</br>
+Identificar as limitações do flexbox.</br>
+Diferenciar o flexbox do grid.</br>
+Prototipar o layout de um cartão utilizando propriedades básicas do grid.</br>
+Reconhecer no layout do figma o que pode fazer parte de um grid.</br>
+Associar as propriedades novas com o que já existe de estrutura no projeto.</br>
+Ver como o layout atual se comporta em um dispositivo diferente.</br>
+Resolva os problemas com novas propriedades de grid.</br>
+Produzir o restante do layout com novas propriedades de grid.</br>
+Identificar problemas como: repetição de código, manutenção e unidades de medida.</br>
+Entender as vantagens de se utilizar a abordagem do grid.</br>
+Planejar como pode ser a construção das outras páginas do projeto utilizando as técnicas aprendidas.</br>
+
+## Acesso ao projeto
+
+<P> https://hzc-flexbox-e-grid.vercel.app/ </p>
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
